@@ -33,8 +33,8 @@ export default defineConfig({
             { text: `Planting`, link: `/Main/beginners-guide/Early-Game/Planting` }
           ]
         }
-      ]
-      `/Main/Main/Generalknowledge` : [
+      ],
+      '/Main/Main/GeneralKnowledge/': [
         {
           text: 'Shops & landmarks',
           collapsed: false,
