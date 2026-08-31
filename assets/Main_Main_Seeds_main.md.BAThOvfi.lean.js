@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as n}from"./chunks/framework.CJl48-mA.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Main/Main/Seeds/main.md","filePath":"Main/Main/Seeds/main.md"}'),t={name:"Main/Main/Seeds/main.md"};function i(s,r,o,c,d,m){return a(),n("div")}const f=e(t,[["render",i]]);export{_ as __pageData,f as default};
