@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Farming and Friends WIKI"
+  name: "Main Wiki"
   text: "A place of information"
   image:
     src: https://raw.githubusercontent.com/Kvadrau/Farming-And-Friend-Unofficial-WIKI/refs/heads/main/docs/images/Logo.png
