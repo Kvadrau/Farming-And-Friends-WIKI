@@ -34,7 +34,7 @@ export default defineConfig({
           ]
         }
       ]
-      `/Main/Main/Generalknowledge`[
+      `/Main/Main/Generalknowledge` : [
         {
           text: 'Shops & landmarks',
           collapsed: false,
