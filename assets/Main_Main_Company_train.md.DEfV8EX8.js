@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as n}from"./chunks/framework.BX_mlWST.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Main/Main/Company/train.md","filePath":"Main/Main/Company/train.md"}'),e={name:"Main/Main/Company/train.md"};function r(i,o,s,c,p,m){return t(),n("div")}const f=a(e,[["render",r]]);export{d as __pageData,f as default};
