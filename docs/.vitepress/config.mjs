@@ -39,8 +39,9 @@ export default defineConfig({
           text: 'Shops & landmarks',
           collapsed: false,
           items: [
-            { text: 'Shops', link: '/Main/Main/GeneralKnowledge/Shops&Landmarks/shops' },
-            { text: `Landmarks`, link: `/Main/Main/GeneralKnowledge/Shops&Landmarks/landmarks` }
+            { text: `Home`, link: `/Main/Main/GeneralKnowledge/Shops&Landmarks/main`},
+            { text: 'Shops', link: '/Main/Main/GeneralKnowledge/Shops&Landmarks/Shops/shops' },
+            { text: `Landmarks`, link: `/Main/Main/GeneralKnowledge/Shops&Landmarks/Landmarks/landmarks` }
           ]
         },
                 {
