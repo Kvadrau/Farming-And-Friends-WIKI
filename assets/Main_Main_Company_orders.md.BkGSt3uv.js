@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as r}from"./chunks/framework.BX_mlWST.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Main/Main/Company/orders.md","filePath":"Main/Main/Company/orders.md"}'),t={name:"Main/Main/Company/orders.md"};function n(o,s,i,c,d,p){return a(),r("div")}const f=e(t,[["render",n]]);export{_ as __pageData,f as default};
