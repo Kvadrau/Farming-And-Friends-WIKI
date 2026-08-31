@@ -4,8 +4,8 @@ prev:
   text: Harvesting
   link: /Main/beginners-guide/Early-Game/Harvesting
 next:
-  text: Plowing
-  link: /Main/beginners-guide/Early-Game/Plowing
+    text: Home Page
+    link: /index.md
 ---
 # Selling
 
