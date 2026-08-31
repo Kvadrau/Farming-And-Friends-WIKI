@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as n}from"./chunks/framework.CJl48-mA.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Main/Main/Vehicles/main.md","filePath":"Main/Main/Vehicles/main.md"}'),t={name:"Main/Main/Vehicles/main.md"};function i(s,c,r,o,m,p){return a(),n("div")}const l=e(t,[["render",i]]);export{d as __pageData,l as default};

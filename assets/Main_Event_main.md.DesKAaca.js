@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.CJl48-mA.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Main/Event/main.md","filePath":"Main/Event/main.md"}'),n={name:"Main/Event/main.md"};function r(i,o,s,c,m,p){return t(),a("div")}const f=e(n,[["render",r]]);export{d as __pageData,f as default};
