@@ -6,7 +6,7 @@ export default defineConfig({
   base: '/Farming-And-Friends-WIKI/',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/Main/index.md' }
+      { text: 'Home', link: '/Main/index' }
     ],
 
     socialLinks: [
