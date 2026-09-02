@@ -2,7 +2,7 @@
 title: Shops & Landmarks
 prev:
     text: Home Page
-    link: /index.md
+    link: /index
 ---
 
 # Shops & Landmarks

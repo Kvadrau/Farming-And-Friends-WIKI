@@ -1,0 +1,18 @@
+.home-intro {
+  max-width: 900px;
+  margin: 0 auto 48px;
+  padding: 0 24px;
+  text-align: center;
+}
+
+.home-intro h2 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.home-intro p {
+  font-size: 16px;
+  line-height: 1.7;
+  margin: 8px 0;
+}

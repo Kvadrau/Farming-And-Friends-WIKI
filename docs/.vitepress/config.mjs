@@ -2,11 +2,16 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'Farming And Friends Wiki',
-  description: 'A comprehensive wiki for Farming And Friends',
-  base: '/Farming-And-Friends-WIKI/',
+
+  description: 'The Official Farming And Friends Wiki - guides, shops, landmarks, events, companies, locations and more.',
+  base: '/',
+  sitemap: {
+  hostname: 'https://farming-and-friends-wiki.com'
+},
   themeConfig: {
+    logo: '/Logo.png',
     nav: [
-      { text: 'Home', link: '/Main/index' }
+      { text: 'Home', link: '/index' }
     ],
 
     socialLinks: [
@@ -14,6 +19,7 @@ export default defineConfig({
     ],
     sidebar: {
       '/Main/beginners-guide/': [
+        { text: 'Home', link: '/index' },
         {
           text: 'Getting Started',
           collapsed: false,
@@ -35,11 +41,11 @@ export default defineConfig({
         }
       ],
       '/Main/Main/GeneralKnowledge/': [
+        { text: 'Home', link: '/index' },
         {
           text: 'Shops & landmarks',
           collapsed: false,
           items: [
-            { text: `Home`, link: `/Main/Main/GeneralKnowledge/Shops&Landmarks/main`},
             { text: 'Shops', link: '/Main/Main/GeneralKnowledge/Shops&Landmarks/Shops/shops' },
             { text: `Landmarks`, link: `/Main/Main/GeneralKnowledge/Shops&Landmarks/Landmarks/landmarks` }
           ]
@@ -48,16 +54,48 @@ export default defineConfig({
           text: 'Factorys & Utilities',
           collapsed: false,
           items: [
-            { text: `Home`, link: `/Main/Main/GeneralKnowledge/Shops&Landmarks/main`},
-            { text: 'Shops', link: '/Main/Main/GeneralKnowledge/Shops&Landmarks/Shops/shops' },
-            { text: `Landmarks`, link: `/Main/Main/GeneralKnowledge/Shops&Landmarks/Landmarks/landmarks` }
+            { text: 'Factorys', link: '/Main/Main/GeneralKnowledge/Factorys&Utilities/Factories/main' },
+            { text: `Utilities`, link: `/Main/Main/GeneralKnowledge/Factorys&Utilities/Utilities/main` }
+          ]
+        },
+        {
+          text: 'Liscenses',
+          collapsed: false,
+          items:[
+            {text: 'Animals', link: '/Main/Main/GeneralKnowledge/Liscenses/Animals/main'},
+            {text: 'Farming', link: '/Main/Main/GeneralKnowledge/Liscenses/Farming/main'},
+            {text: 'Logistics', link: '/Main/Main/GeneralKnowledge/Liscenses/Logistics/main'}
+          ]
+        },
+        {
+          text: 'Animals',
+          collapsed: false,
+          items:[
+            {text: 'Bees', link:'/Main/Main/GeneralKnowledge/Animals/bees'},
+            {text: 'Chickens', link: '/Main/Main/GeneralKnowledge/Animals/chickens'},
+            {text: 'Cows', link: '/Main/Main/GeneralKnowledge/Animals/cows'},
+            {text: 'Sheep', link:'/Main/Main/GeneralKnowledge/Animals/sheep'}
+          ]
+        },
+        {
+          text: 'Miscellaneous',
+          collapsed: false,
+          items:[
+            {text: 'FAQ', link: '/Main/Main/GeneralKnowledge/Misc/faq'},
+            {text: 'Update Logs', link: '/Main/Main/GeneralKnowledge/Misc/updates/main'},
+            {text: 'Trading', link: '/Main/Main/GeneralKnowledge/Misc/trading'},
+            {text: 'Worker Permissions', link: '/Main/Main/GeneralKnowledge/Misc/workerPermissions'}
+
           ]
         }
-
+      ],
+      '/Main/Main/Company/': [
+        {text: 'Home', link: '/index'}
       ]
     }
   },
   head: [
+    ['link', { rel: 'icon', href: '/WikiLogoNoBackground.png' }],
     ['style', {}, `
       .menu-button {
         display: inline-block;
@@ -73,6 +111,10 @@ export default defineConfig({
       .menu-button:hover {
         background-color: rgb(61, 60, 60);
       }
+       .VPHero .image-src {
+        max-width: 250px;
+         max-height: 250px;
+        }
     `]
   ]
 })

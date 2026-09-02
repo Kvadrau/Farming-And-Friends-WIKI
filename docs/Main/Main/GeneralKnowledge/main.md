@@ -6,8 +6,8 @@ hero:
   name: "General Knowledge"
   text: "A place of information"
   image:
-    src: https://raw.githubusercontent.com/Kvadrau/Farming-And-Friend-Unofficial-WIKI/refs/heads/main/docs/images/Logo.png
-    alt: VitePress
+    src: /WikiLogoNoBackground.png
+    alt: "Farming And Friends Wiki Logo"
   actions:
     - theme: alt
       text: Shops & Landmarks
@@ -19,11 +19,11 @@ hero:
       text: Licenses
       link: /Main/Main/GeneralKnowledge/Liscenses/main
     - theme: alt
-      text: Currency & Economy
-      link: /Main/Main/GeneralKnowledge/Currency&Economy/main
+      text: Animals
+      link: /Main/Main/GeneralKnowledge/Animals/main
     - theme: alt
       text: Other
-      link: /Main/Main/GeneralKnowledge/Miscellaneous/main
+      link: /Main/Main/GeneralKnowledge/Misc/main
 
 features:
   - title: Wiki

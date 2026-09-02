@@ -6,15 +6,15 @@ hero:
   name: "Main Wiki"
   text: "A place of information"
   image:
-    src: https://raw.githubusercontent.com/Kvadrau/Farming-And-Friend-Unofficial-WIKI/refs/heads/main/docs/images/Logo.png
-    alt: VitePress
+    src: /WikiLogoNoBackground.png
+    alt: "Farming And Friends Wiki Logo"
   actions:
     - theme: alt
       text: General Knowledge
       link: /Main/Main/GeneralKnowledge/main
     - theme: alt
       text: Company
-      link: /Main/Main/Company/Information/main
+      link: /Main/Main/Company/main
     - theme: alt
       text: Events
       link: /Main/Main/Events/main

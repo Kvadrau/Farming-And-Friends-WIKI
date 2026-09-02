@@ -1,15 +1,36 @@
+---
+title: Shops & Landmarks
+prev:
+    text: General Knowledge
+    link: /Main/Main/GeneralKnowledge/main.
+---
 # Landmarks
 
-A guide to important locations and landmarks throughout **Farming And Friends**.
+Landmarks are notable locations throughout **Farming And Friends** that can help players navigate the map and find important areas.
 
-## Animal Co Pickup
+This page provides an overview of the important landmarks currently documented on the wiki.
 
-Information about the Animal Co pickup location.
+## Available Landmarks
 
-## Company Station
+| Landmark            | Description              |Page|
+| ------------------- | ------------------------ |------------------------ |
+| 📍 Company Npc | Information coming soon. | [Company Station](./companynpc.md) |
 
-Information about the Company Station.
+> **Note:** This page is currently being expanded. More landmarks and detailed information will be added as they are documented.
 
-## Other Landmarks
+## Landmark Information
 
-Additional notable locations around the map will be documented here.
+Individual landmark pages can include information such as:
+
+* **Location**
+* **How to find it**
+* **Nearby shops or facilities**
+* **Purpose**
+* **What can be found there**
+* **Useful information or tips**
+
+---
+
+### Want to contribute?
+
+If you know of an important landmark that isn't documented yet, consider contributing to the wiki or providing the relevant information to the wiki team.
