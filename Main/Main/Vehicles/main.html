@@ -30,6 +30,16 @@
       .menu-button:hover {
         background-color: rgb(61, 60, 60);
       }
+
+      .VPNavBarMenuLink[href="/index"]::before {
+      content: "";
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      margin-right: 6px;
+      background: url('/WikiLogoNoBackground.png') center / contain no-repeat;
+     vertical-align: middle;
+}
     </style>
     <script id="check-dark-mode">(()=>{const e=localStorage.getItem("vitepress-theme-appearance")||"auto",a=window.matchMedia("(prefers-color-scheme: dark)").matches;(!e||e==="auto"?a:e==="dark")&&document.documentElement.classList.add("dark")})();</script>
     <script id="check-mac-os">document.documentElement.classList.toggle("mac",/Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
