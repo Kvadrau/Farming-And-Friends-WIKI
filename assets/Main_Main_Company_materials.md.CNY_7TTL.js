@@ -1,0 +1,11 @@
+import{_ as e,o as s,c as n,ae as t}from"./chunks/framework.EHGTsUvI.js";const h=JSON.parse('{"title":"Company Materials","description":"","frontmatter":{"title":"Company Materials"},"headers":[],"relativePath":"Main/Main/Company/materials.md","filePath":"Main/Main/Company/materials.md"}'),r={name:"Main/Main/Company/materials.md"};function i(p,a,l,o,c,d){return s(),n("div",null,[...a[0]||(a[0]=[t(`<h1 id="company-materials" tabindex="-1">Company Materials <a class="header-anchor" href="#company-materials" aria-label="Permalink to &quot;Company Materials&quot;">​</a></h1><p>Company Materials are resources used to complete <strong>Company Orders</strong>.</p><p>Materials must be gathered, produced, or otherwise obtained by Company members before they can be used to fulfil Orders.</p><h2 id="how-materials-work" tabindex="-1">How Materials Work <a class="header-anchor" href="#how-materials-work" aria-label="Permalink to &quot;How Materials Work&quot;">​</a></h2><p>Company Orders require specific Materials in specific quantities.</p><p>The general process is:</p><ol><li>Check the current Company Order.</li><li>Identify the required Materials.</li><li>Gather or produce the required Materials.</li><li>Deliver the Materials to the Company.</li><li>Use them to fulfil the Order.</li><li>Prepare the completed Order for shipment.</li></ol><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>Company Order</span></span>
+<span class="line"><span>      ↓</span></span>
+<span class="line"><span>Required Materials</span></span>
+<span class="line"><span>      ↓</span></span>
+<span class="line"><span>Gather / Produce</span></span>
+<span class="line"><span>      ↓</span></span>
+<span class="line"><span>Deliver to Company</span></span>
+<span class="line"><span>      ↓</span></span>
+<span class="line"><span>Fulfil Order</span></span>
+<span class="line"><span>      ↓</span></span>
+<span class="line"><span>Shipment</span></span></code></pre></div>`,8)])])}const u=e(r,[["render",i]]);export{h as __pageData,u as default};
