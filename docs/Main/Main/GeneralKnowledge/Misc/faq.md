@@ -1,9 +1,18 @@
 ---
-title: Factorys & Utilities
+title: Work in Progress
 prev:
     text: General Knowledge
-    link: /Main/Main/GeneralKnowledge/main.
+    link: /Main/Main/GeneralKnowledge/main
 ---
-# This page is a work in progress
 
-We are still actively working on gathering information for this page. We are sorry for the inconvience. if you feel you can provide anything for this section feel free to contact us.
+# 🚧 Work in Progress
+
+This page is currently **under construction**.
+
+We are currently awaiting information before this page can be completed and published.
+
+::: tip
+Once the required information has been received and verified, this page will be updated.
+:::
+
+**Please check back later for updates.**
