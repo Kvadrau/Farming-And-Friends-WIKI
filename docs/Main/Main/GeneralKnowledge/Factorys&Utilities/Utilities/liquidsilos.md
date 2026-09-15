@@ -3,49 +3,83 @@ title: Liquid Silos
 ---
 # Liquid Silos
 
-Liquid Silos are storage buildings used to store liquid products such as milk, allowing players to stockpile liquids for later use in production.
+Liquid Silos are storage buildings used to store **liquid products**. They allow players to store large quantities of liquids without needing to keep them inside trailers or other vehicles.
 
-## Purpose
+Liquid Silos are particularly useful for large-scale production chains where liquids need to be stored before being transported to factories or other locations.
 
-Liquid Silos are used to store liquid products without requiring them to remain inside a tanker or other transport vehicle.
+## Building Information
 
-They are particularly useful for storing milk for production chains such as **Cheese**, **Cake Batter**, and **Chocolate Milk**.
+| Information  | Details                |
+| ------------ | ---------------------- |
+| Building     | Liquid Silo            |
+| Purpose      | Liquid Storage         |
+| Capacity     | 50 - 100 - 300 Units |
+| Storage Type | Liquids                |
+| Build Menu   | Create > Buildings     |
 
-## How to Use
+## Stored Liquids
 
-### 1. Place the Liquid Silo
+Liquid Silos can be used to store compatible liquid products such as:
 
-Purchase and place the Liquid Silo on your farm.
+* Milk
+* Free-Range Milk
+* Chocolate Milk
+* Grape Juice
 
-### 2. Load Liquid
+The silo is designed for storing liquid products rather than boxed crops or finished factory products.
 
-Bring the required liquid to the silo using a suitable tanker or transport vehicle.
+## How to Use a Liquid Silo
 
-Unload the liquid into the silo.
+### 1. Purchase the Silo
 
-### 3. Store Liquid
+Open the **Create** menu and purchase a Liquid Silo.
 
-The liquid will remain stored inside the silo until it is needed.
+Place the silo somewhere accessible to your farming equipment and transport vehicles.
 
-### 4. Remove Liquid
+### 2. Load Liquids
 
-When required, use a suitable tanker to collect the stored liquid and transport it to a factory or other destination.
+Bring the required liquid to the Liquid Silo using a suitable vehicle or trailer.
 
-## Cost
+Unload the liquid into the silo's storage area.
 
-| Information      | Details     |
-| ---------------- | ----------- |
-| Purchase Price   | 4,000 Coins |
-| Storage Capacity | 300 Units   |
+The liquid will be added to the silo's available storage.
 
-## Requirements
+### 3. Store Liquids
 
-* No special license required.
-* A suitable liquid tanker is required to transport liquids to and from the silo.
+Once the liquid has been deposited, it remains stored inside the silo.
 
-## Useful Information & Tips
+The silo can hold up to the selected storage capacity.
 
-* Useful for storing large quantities of milk.
-* Helps keep tankers available for other tasks.
-* Useful when supplying factories with large amounts of liquid ingredients.
-* Particularly useful for **Cheese**, **Cake Batter**, and **Chocolate Milk** production.
+### 4. Remove Liquids
+
+When you need the stored liquid for selling or production, use a suitable vehicle or trailer at the silo's loading area.
+
+The stored liquid can then be transferred into the vehicle for transportation.
+
+## Liquid Storage Chain
+
+```text
+Animal / Production
+        ↓
+    Liquid
+        ↓
+  Liquid Silo
+        ↓
+┌───────────────┐
+│               │
+Factory       Sell
+│               │
+Production   Sell Point
+```
+
+## Uses
+
+Liquid Silos are especially useful for:
+
+* Storing liquids between production runs
+* Building up large quantities of ingredients
+* Supplying production factories
+* Reducing the need for multiple trailers
+* Preparing liquids for large production batches
+
+> **Tip:** Liquid Silos are particularly useful when running factories that require large quantities of liquid ingredients, such as the **Chocolate Milk Factory**, where milk is used as one of the main production ingredients.

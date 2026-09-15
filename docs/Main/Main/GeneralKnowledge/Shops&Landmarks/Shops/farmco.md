@@ -5,7 +5,7 @@ prev:
     link: /Main/Main/GeneralKnowledge/Shops&Landmarks/Shops/shops
 next:
     text: LumberCo
-    link: /Main/Main/GeneralKnowledge/Shops&Landmarks/Shops/LumberCo
+    link: /Main/Main/GeneralKnowledge/Shops&Landmarks/Shops/lumberco
 ---
 
 -------------------------------------------------------------
@@ -41,7 +41,7 @@ FarmCo sells individual crop boxes containing seeds for different crops.
 
 ## Pallet Prices
 
-FarmCo also sells crop pallets containing multiple crop boxes.
+FarmCo also sells crop pallets containing 27 crop boxes per pallet.
 
 | Crop         | Pallet Price |
 | ------------ | -----------: |

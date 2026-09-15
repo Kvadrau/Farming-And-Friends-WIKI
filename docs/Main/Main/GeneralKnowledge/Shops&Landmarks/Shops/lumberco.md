@@ -32,7 +32,7 @@ LumberCo sells individual crop boxes containing seeds for different crops.
 
 ## Pallet Prices
 
-LumberCo also sells tree pallets containing multiple tree boxes.
+LumberCo also sells tree pallets containing 27 tree boxes per pallet.
 
 | Tree         | Pallet Price |
 | ------------ | -----------: |

@@ -14,8 +14,8 @@ Honey Oatmeal is an advanced food product made using **Honey** and **Oats**. It 
 | Oats Required       | 100 Harvested Oats      |
 | Honey Required      | 1 Honey Pallet          |
 | Output              | Honey Oatmeal           |
-| Pallet Size         | 27 Bundles              |
-| Maximum Sell Value  | 87,750 Coins per Pallet |
+| Pallet Size         | 27 box              |
+| Maximum Sell Value  | 122,850 Coins per Pallet |
 
 A full pallet of Honey Oatmeal contains **27 bundles**. Each bundle can sell for up to **3,250 Coins**, giving a maximum pallet value of **87,750 Coins**.
 
@@ -40,28 +40,28 @@ Production requires the player to supply the required Honey and Oats and operate
 
 ## Products Produced
 
-The factory produces **Honey Oatmeal Bundles**.
+The factory produces **Honey Oatmeal boxes**.
 
 | Product       | Amount                |
 | ------------- | --------------------- |
-| Honey Oatmeal | 27 Bundles per Pallet |
+| Honey Oatmeal | 27 boxes per Pallet |
 
-Honey Oatmeal is sold by the bundle rather than having a separate fixed pallet selling price.
+Honey Oatmeal is sold by the box rather than having a separate fixed pallet selling price.
 
 ## Selling Price
 
 The maximum documented selling price is:
 
-**3,250 Coins per Bundle**
+**4,550 Coins per Box**
 
-A full pallet contains 27 bundles:
+A full pallet contains 27 boxes:
 
-**27 × 3,250 = 87,750 Coins**
+**27 × 4,550 = 122,850 Coins**
 
 | Product    | Maximum Value |
 | ---------- | ------------- |
-| 1 Bundle   | 3,250 Coins   |
-| 27 Bundles | 87,750 Coins  |
+| 1 box   | 4,550 Coins   |
+| 27 boxes | 122,850 Coins  |
 
 These are maximum documented values and may change with future updates.
 
@@ -120,9 +120,9 @@ Once the required materials have been supplied, operate the factory to begin pro
 
 ### 7. Collect the Honey Oatmeal
 
-The finished product is produced as **Honey Oatmeal Bundles**.
+The finished product is produced as **Honey Oatmeal Boxes**.
 
-A full pallet contains **27 bundles**.
+A full pallet contains **27 boxes**.
 
 ### 8. Sell the Honey Oatmeal
 
@@ -130,7 +130,7 @@ Take the finished Honey Oatmeal to the appropriate selling location.
 
 At the maximum documented price:
 
-**27 Bundles × 3,250 Coins = 87,750 Coins**.
+**27 Boxes × 4,550 Coins = 122,850 Coins**.
 
 ## Honey Oatmeal Production Chain
 

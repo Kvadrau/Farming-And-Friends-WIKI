@@ -11,7 +11,7 @@ The Sawmill is part of the Forestry and Logistics progression and requires the *
 
 | Information      | Details                          |
 | ---------------- | -------------------------------- |
-| Purchase Price   | Not currently confirmed          |
+| Purchase Price   | $1,000,000          |
 | Main Input       | Logs                             |
 | Product          | Planks                           |
 | Required License | Sawmill License                  |
@@ -129,7 +129,8 @@ The logs are processed into **Planks**.
 
 ### 7. Collect the Planks
 
-Once processing is complete, collect the finished Planks from the Sawmill's output area.
+Once processing is complete, collect the finished Planks stack ( 20 planks ) from the Sawmill's output area.
+> you can onnly withdraw planks in segments of 20
 
 ### 8. Sell the Planks
 

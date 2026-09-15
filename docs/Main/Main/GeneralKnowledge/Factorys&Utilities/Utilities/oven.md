@@ -3,72 +3,88 @@ title: Oven Building
 ---
 # Oven Building
 
-The Oven Building is a production building used to bake **Cake Batter** into finished **Cakes**.
+The **Oven Building** is a production building used to process ingredients into cooked products.
 
-## Purpose
+Ovens are particularly useful for players involved in production chains where ingredients need to be processed before being sold or used in other factories.
 
-The Oven Building is used to turn Cake Batter into Cakes.
+## Building Information
 
-It is the final stage of the Cake production chain.
+| Information     | Details             |
+| --------------- | ------------------- |
+| Building        | Oven                |
+| Purpose         | Food Production     |
+| Capacity        | **To be confirmed** |
+| Production Type | Cooking             |
+| Build Menu      | Create > Buildings  |
 
-## How to Use
+## What Can Be Produced
 
-### 1. Place the Oven Building
+The Oven Building can be used to produce compatible cooked products.
 
-Purchase and place the Oven Building on your farm.
+Products and recipes may vary depending on the current game version.
 
-### 2. Load Cake Batter
+* **To be confirmed**
+* **To be confirmed**
+* **To be confirmed**
 
-Place Cake Batter onto the storage tray located to the right of the building's entrance.
+## How to Use an Oven
 
-### 3. Start Baking
+### 1. Purchase the Oven
 
-Once Cake Batter has been loaded, the ovens will begin baking.
+Open the **Create** menu and purchase an Oven.
 
-Each oven takes approximately **10 minutes** to bake a Cake.
+Place the Oven somewhere accessible on your farm.
 
-### 4. Collect the Cakes
+### 2. Prepare the Ingredients
 
-Once baking is complete, collect the finished Cakes from the storage rack on the left side of the building.
+Obtain the ingredients required for the product you want to produce.
 
-## Cost
+Make sure you have enough ingredients available before starting production.
 
-| Information      | Details      |
-| ---------------- | ------------ |
-| Purchase Price   | 35,000 Coins |
-| Number of Ovens  | 8            |
-| Storage Capacity | 12 Items     |
-| Baking Time      | 10 Minutes   |
+### 3. Load the Oven
 
-## Requirements
+Place the required ingredients into the Oven's input area.
 
-* Oven Building
-* Cake Batter
-* No special license required
+The ingredients will be used when production is started.
 
-## Useful Information & Tips
+### 4. Start Production
 
-* The building contains **8 ovens**.
-* Each oven can bake Cake Batter into a Cake.
-* Cake Batter is produced using the **Cake Factory**.
-* Cakes take approximately **10 minutes** to bake.
-* Ovens do not normally continue baking while offline unless **Farmer's Club** is active.
-* Finished Cakes are stored on the rack on the left side of the building.
+Start the Oven's production process.
 
-## Production Chain
+The Oven will process the ingredients over the required production time.
 
-```text
-Wheat
-  +
-Eggs
-  +
-Milk
-  ↓
-Cake Factory
-  ↓
-Cake Batter
-  ↓
-Oven Building
-  ↓
-Cake
+### 5. Collect the Product
+
+Once production has finished, collect the completed product from the Oven.
+
+The finished product can then be stored, transported, sold, or used in another production chain where applicable.
+
+## Oven Production Chain
+
+```text id="1p4g7x"
+Ingredients
+    ↓
+   Oven
+    ↓
+Cooked Product
+    ↓
+┌───────────────┐
+│               │
+   Sell       Factory
+│               │
+Sell Point   Production
 ```
+
+## Uses
+
+Ovens are especially useful for:
+
+* Processing ingredients into cooked products
+* Producing items for sale
+* Supporting production chains
+* Processing ingredients in larger quantities
+* Creating products that can be transported or sold
+
+> **Tip:** Before starting production, make sure you have enough ingredients available to complete the recipe.
+
+> **Note:** Oven recipes, production times, prices, and functionality may change with future game updates.

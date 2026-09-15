@@ -8,7 +8,7 @@ prev:
 
 # Companies
 
-Companies are a major part of **Farming And Friends**, allowing players to work together, complete Orders, manage resources, and progress as a team.
+Companies are a major part of **Farming And Friends**, allowing up to 8 players to work together, complete Orders, manage resources, and progress as a team.
 
 A Company can have multiple members, with different roles and permissions determining what each member is able to do.
 
@@ -50,7 +50,7 @@ The Owner has the highest level of control over the Company, while standard memb
 | Role | Description |
 | ----------------------- | ------------------------ |
 | Owner | The player who created the Company and has the highest level of control. |
-| Manager | A trusted member who can assist with managing the Company. |
+| Admin | A trusted member who can assist with managing the Company. |
 | Member | A standard Company member who can participate in Company activities. |
 
 Permissions determine which Company functions each member can access.

@@ -43,7 +43,7 @@ If you leave the game after purchasing items, your boxes will appear at the fron
 
 ## Pallet Prices
 
-AnimalCo also sells Feed pallets containing multiple Food boxes.
+AnimalCo also sells Feed pallets containing 27 Food boxes per pallet.
 
 | Type         | Pallet Price |
 | ------------ | -----------: |

@@ -23,7 +23,7 @@ features:
   - title: Wiki
     details: Learn Anything within Farming And Friends!
   - title: Found Issues?
-    details: Contact kvadrau on discord.
+    details: Contact the team on discord.
   - title: Contribute?
     details: Have I missed something? let me know and contribute to this wiki
 ---

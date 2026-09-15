@@ -3,54 +3,83 @@ title: Log Storage
 ---
 # Log Storage
 
-Log Storage is a storage building used to store harvested **Logs**, allowing players to keep large quantities of logs for later use.
+Log Storage is a storage building used to store harvested **Logs**. It allows players to store large quantities of logs without needing to keep them inside trailers or other vehicles.
 
-## Purpose
+Log Storage is particularly useful for large-scale logging and production chains where logs need to be stored before being transported to **LumberCo** or other locations.
 
-Log Storage is used to store harvested logs without needing to keep them inside trailers or other vehicles.
+## Building Information
 
-It is particularly useful for storing logs that will later be used in **LumberCo** or other production activities.
+| Information  | Details             |
+| ------------ | ------------------- |
+| Building     | Log Storage         |
+| Purpose      | Log Storage         |
+| Capacity     | Infinite |
+| Storage Type | Logs                |
+| Required Liscense  | **To be confirmed** |
 
-## How to Use
+## Stored Logs
 
-### 1. Place the Log Storage
+Log Storage can be used to store harvested logs.
 
-Purchase and place the Log Storage on your farm.
+The storage is designed specifically for logs rather than crops, liquids, or finished factory products.
+
+## How to Use Log Storage
+
+### 1. Purchase the Storage
+
+Open the **Create** menu and purchase the Log Storage.
+
+Place the storage somewhere accessible to your logging equipment and transport vehicles.
 
 ### 2. Load Logs
 
-Bring harvested logs to the Log Storage and unload them into the storage area.
+Bring harvested logs to the Log Storage using a suitable vehicle or trailer.
+
+Unload the logs into the storage area.
+
+The logs will be added to the storage.
 
 ### 3. Store Logs
 
-The logs will remain stored inside the storage until they are needed.
+Once the logs have been deposited, they remain stored inside the Log Storage until they are needed.
+
+The storage capacity is currently **to be confirmed**.
 
 ### 4. Remove Logs
 
-When required, remove the stored logs and load them onto a suitable vehicle or trailer for transportation or production.
+When you need the stored logs for transportation or production, use a suitable vehicle or trailer at the storage's loading area.
 
-## Cost
+The stored logs can then be transferred onto the vehicle for transportation.
 
-| Information      | Details             |
-| ---------------- | ------------------- |
-| Purchase Price   | **To be confirmed** |
-| Storage Capacity | **To be confirmed** |
+## Log Storage Chain
 
-> **Note:** The current purchase price and storage capacity should be confirmed in-game before being added as fixed values.
+```text
+Forest
+  ↓
+Cut Trees
+  ↓
+Harvested Logs
+  ↓
+Log Storage
+  ↓
+┌───────────────┐
+│               │
+LumberCo      Other
+│             Uses
+Production
+```
 
-## Requirements
+## Uses
 
-* No special license required.
-* Suitable space on your farm.
-* Logs to be stored.
+Log Storage is especially useful for:
 
-## Useful Information & Tips
+* Storing logs between harvesting trips
+* Building up large quantities of logs
+* Supplying **LumberCo**
+* Reducing the need for multiple trailers
+* Preparing logs for production
+* Keeping harvested logs organised on your farm
 
-* Log Storage allows you to store logs between harvesting trips.
-* Useful for stockpiling logs for **LumberCo**.
-* Helps reduce the need to keep logs inside trailers.
-* Useful for players who regularly harvest large quantities of logs.
-* Keeping logs stored on your farm can make transporting materials to LumberCo more convenient.
-* Storage capacity may vary depending on the current game version.
+> **Tip:** Log Storage is particularly useful for players who regularly harvest large quantities of logs for **LumberCo**, allowing materials to be stockpiled before transporting them.
 
 > **Note:** Storage prices, capacities, and functionality may change with future game updates.

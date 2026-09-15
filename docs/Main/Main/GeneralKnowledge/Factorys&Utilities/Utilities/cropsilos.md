@@ -13,11 +13,9 @@ Crop Silos are particularly useful for large-scale farming and production chains
 | ------------ | ------------------ |
 | Building     | Crop Silo          |
 | Purpose      | Crop Storage       |
-| Capacity     | 300 Crop Boxes     |
+| Capacity     |  300 - 600 - 1200 Units     |
 | Storage Type | Crops              |
 | Build Menu   | Create > Buildings |
-
-Each Crop Silo can hold up to **300 boxes of crops**.
 
 ## Stored Crops
 
