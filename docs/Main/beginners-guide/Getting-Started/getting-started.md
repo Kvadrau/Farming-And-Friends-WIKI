@@ -32,7 +32,7 @@ Every new player starts with the following **level 1 equipment**:
  - Plow the field to prepare the soil.
  - Cultivate the land to make it ready for planting.
  - Plant seeds using the seeder.
- - Wait for crops to grow
+ - Wait for the crops to grow
  - Harvest the crops using the harvester
  - Transport the crops using your pickup truck and trailer to sell them.
 
@@ -40,12 +40,12 @@ Every new player starts with the following **level 1 equipment**:
 
 The game includes a task system that provides players with objectives to complete. Tasks refresh every 2 hours and are split into three different sections, each containing four tasks.
 
-Completing tasks is a good way to earn Xp towards unlocking something new. That could be a new factory, new equipment or even unlocking a whole new way of farming.
+Completing tasks is a good way to earn XP towards unlocking something new. That could be a new factory, new equipment or even unlocking a whole new way of farming.
 
 ## Building Your Early Income
 
-your first harvests will provide the money needed to exand your farm. As you continue farming, you can upgrade vehicles, purchase new equipment, and unlock addition systems such as animals and factries.
+Your first harvests will provide the money needed to expand your farm. As you continue farming, you can upgrade vehicles, purchase new equipment, and unlock additional systems such as animals and factories.
 
 ## Next Steps
 
-Now that you understand the starter equipment, farming process and the task system, the next section will guide through completing your first harvest and earning your first bit of money
+Now that you understand the starter equipment, farming process and the task system, the next section will guide you through completing your first harvest and earning your first bit of money

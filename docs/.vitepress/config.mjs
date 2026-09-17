@@ -14,6 +14,10 @@ export default defineConfig({
       { text: 'Home', link: '/index' }
     ],
 
+    search: {
+      provider: `local`
+    },
+
     socialLinks: [
       { icon: 'discord', link: 'https://discord.com/invite/DunnGames' }
     ],

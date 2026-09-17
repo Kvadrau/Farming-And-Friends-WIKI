@@ -25,13 +25,13 @@ Your browser does not support the video tag.
 
 ### Step By Step Instructions
 
-1. **Step 1:** To begin harvesting you must be inside of a harvester, you can click the drive button while next to the harvest to enter it.
-2. **Step 2:** You then need to drive forward within the harvest to harvest the drop. (RT- console) , (W - Keyboard) , (Big Right peddle - Mobile)
+1. **Step 1:** To begin harvesting you must be inside of a harvester, you can click the drive button while next to the harvester to enter it.
+2. **Step 2:** You then need to drive forward within the field to harvest the drop. (RT- console) , (W - Keyboard) , (Big Right pedal - Mobile)
 ::: tip
-Make sure the feild has the Harvest icon above it before trying to harvest
+Make sure the field has the Harvest icon above it before trying to harvest
 :::
 
-## Emptying Your harvest into a crop trailer
+## Emptying your harvest into a crop trailer
 
 Below you can see a video of the process to empty your harvested crops into a crop trailer. You can follow the video or be able to follow the steps below!
 

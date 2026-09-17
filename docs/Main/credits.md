@@ -19,7 +19,7 @@ Players who have provided information, corrections, screenshots, or other contri
 
 | Contributor        | Contribution                |
 | ------------------ | --------------------------- |
-| **guessedimjavvy** | Information Research        |
+| **guessedimjavvy** | Research & Page Development       |
 | **vynalyn** | Screenshots & Media         |
 
 ## Contribution Types

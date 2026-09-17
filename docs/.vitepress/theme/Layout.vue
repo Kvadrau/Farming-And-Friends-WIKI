@@ -11,7 +11,7 @@ const { Layout } = DefaultTheme
         <h2>Welcome to the Farming And Friends Wiki</h2>
 
         <p>
-          Welcome to the <strong>Farming And Friends Wiki</strong>, the unofficial
+          Welcome to the <strong>Farming And Friends Wiki</strong>, the official
           community wiki dedicated to Farming And Friends.
         </p>
 

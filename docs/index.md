@@ -20,6 +20,6 @@ features:
     details: Learn Anything within Farming And Friends!
   - title: Found Issues?
     details: Contact the team on discord.
-  - title: Contribute?
-    details: Have I missed something? let me know and contribute to this wiki
+  - title: :🤝 Help Improve the Wiki
+    details: Found outdated information or something we're missing? Help us keep the wiki accurate by submitting information, corrections, new pages and suggestions to our Wiki Team.
 ---

@@ -129,8 +129,8 @@ The logs are processed into **Planks**.
 
 ### 7. Collect the Planks
 
-Once processing is complete, collect the finished Planks stack ( 20 planks ) from the Sawmill's output area.
-> you can onnly withdraw planks in segments of 20
+Once processing is complete, collect the finished Planks stack (20 planks) from the Sawmill's output area.
+> you can only withdraw planks in segments of 20
 
 ### 8. Sell the Planks
 
