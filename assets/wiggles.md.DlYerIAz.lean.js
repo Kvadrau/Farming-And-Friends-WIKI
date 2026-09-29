@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as a,ag as i}from"./chunks/framework.BZohXCq9.js";const m=JSON.parse('{"title":"Tractors","description":"","frontmatter":{},"headers":[],"relativePath":"wiggles.md","filePath":"wiggles.md"}'),d={name:"wiggles.md"};function o(l,t,s,n,g,h){return r(),a("div",null,[...t[0]||(t[0]=[i("",45)])])}const p=e(d,[["render",o]]);export{m as __pageData,p as default};
