@@ -138,4 +138,4 @@ When purchasing a tractor, consider both its **road speed** and **field speed**,
 
 > **Tip:** A tractor with a high road speed is useful for travelling around the map, while a high field speed can reduce the time spent working large fields.
 
-# Waste smells very bad #
+# Waste smells very bad
