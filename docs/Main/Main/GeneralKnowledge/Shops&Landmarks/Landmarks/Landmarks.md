@@ -2,7 +2,7 @@
 title: Shops & Landmarks
 prev:
     text: General Knowledge
-    link: /Main/Main/GeneralKnowledge/main.
+    link: /General-Knowledge
 ---
 # Landmarks
 
@@ -14,7 +14,7 @@ This page provides an overview of the important landmarks currently documented o
 
 | Landmark            | Description              |Page|
 | ------------------- | ------------------------ |------------------------ |
-| 📍 Company Npc | Information coming soon. | [Company Station](./companynpc.md) |
+| 📍 Company Npc | Information coming soon. | [Company Station](/Landmarks/companynpc) |
 
 > **Note:** This page is currently being expanded. More landmarks and detailed information will be added as they are documented.
 

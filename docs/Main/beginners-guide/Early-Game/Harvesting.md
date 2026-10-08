@@ -2,10 +2,10 @@
 title: Harvesting
 prev:
     text: Getting Started
-    link: /Main/beginners-guide/Getting-Started/getting-started
+    link: /Early-Game/Getting-Started
 next:
   text: Selling
-  link: /Main/beginners-guide/Early-Game/Selling
+  link: /Early-Game/Selling
 ---
 
 # Harvesting

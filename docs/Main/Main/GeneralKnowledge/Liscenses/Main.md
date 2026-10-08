@@ -2,7 +2,7 @@
 title: Factorys & Utilities
 prev:
     text: General Knowledge
-    link: /Main/Main/GeneralKnowledge/main.
+    link: /General-Knowledge
 ---
 
 # Licenses
@@ -37,19 +37,19 @@ Players earn License XP by completing tasks associated with the license.
 
 Animal licenses cover licenses related to animals and animal-based activities.
 
-[View Animal Licenses](./Animals/main.md)
+[View Animal Licenses](./Animal-Liscenses)
 
 ### 🚜 Farming
 
 Farming licenses cover agricultural equipment, farming activities, and other farming-related operations.
 
-[View Farming Licenses](./Farming/main.md)
+[View Farming Licenses](./Farming-Liscenses)
 
 ### 🚚 Logistics
 
 Logistics licenses cover transportation, delivery, and other logistics-related activities.
 
-[View Logistics Licenses](./Logistics/main.md)
+[View Logistics Licenses](./Logistics-Liscenses)
 
 
 

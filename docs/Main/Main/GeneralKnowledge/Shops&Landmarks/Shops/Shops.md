@@ -1,8 +1,5 @@
 ---
 title: Shops & Landmarks
-prev:
-    text: General Knowledge
-    link: /Main/Main/GeneralKnowledge/main.
 ---
 
 # Shops
@@ -15,11 +12,11 @@ This page provides an overview of the shops currently available in the game.
 
 | Shop                    | Description              |Page|
 | ----------------------- | ------------------------ |------------------------|
-| 🏪 FarmCo               | Purchase crops, seeds, and other farm essentials. | [ Farm Co ](./farmco.md) |
-| 🪵 LumberCo             | Buy equipment and supplies for logging and forestry. | [ Lumber Co ](./lumberco.md)|
-| 🐄 Animal Co            | Purchase animals, animal food, and bee boxes. | [ Animal Co ](./animalco.md)|
-| 🚜 TractorCo            | Purchase tractors, vehicles, trailers, and farming equipment | [ Tractor Co ](./tractorco.md)|
-| 🔧 Customisation Garage | Customize your vehicles with various options and upgrades. | [ Customization Garage ](./customization-garage.md)|
+| 🏪 FarmCo               | Purchase crops, seeds, and other farm essentials. | [ Farm Co ](/Shops/farmco) |
+| 🪵 LumberCo             | Buy equipment and supplies for logging and forestry. | [ Lumber Co ](/Shops/lumberco)|
+| 🐄 Animal Co            | Purchase animals, animal food, and bee boxes. | [ Animal Co ](/Shops/animalco)|
+| 🚜 TractorCo            | Purchase tractors, vehicles, trailers, and farming equipment | [ Tractor Co ](/Shops/tractorco)|
+| 🔧 Customisation Garage | Customize your vehicles with various options and upgrades. | [ Customization Garage ](/Shops/customization-garage)|
 
 > **Note:** This page is currently being expanded. More shops and detailed information will be added as they are documented.
 

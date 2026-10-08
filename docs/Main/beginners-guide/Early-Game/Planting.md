@@ -2,10 +2,10 @@
 title: Getting Started
 prev:
     text: Introduction
-    link: /Main/beginners-guide/Getting-Started/introduction
+    link: /Early-Game/Introduction
 next:
   text: Harvesting
-  link: /Main/beginners-guide/Early-Game/Harvesting
+  link: /Early-Game/Harvesting
 ---
 # Planting
 

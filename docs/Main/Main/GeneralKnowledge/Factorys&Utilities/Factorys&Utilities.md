@@ -1,5 +1,5 @@
 ---
-title: Factorys & Utilities
+title: Factories & Utilities
 prev:
     text: General Knowledge
     link: /Main/Main/GeneralKnowledge/main.
@@ -15,10 +15,10 @@ Here you can find information about the various factories and utility-related lo
 
 Learn more about the different factories available in **Farming And Friends**, including what they produce, how they work, and what they are used for.
 
-[View Factories](./Factories/main.md)
+[View Factories](/Factories/main)
 
 ## ⚙️ Utilities
 
 Explore the various utilities and services that can help with farming, production, transportation, and other activities.
 
-[View Utilities](./Utilities/main.md)
+[View Utilities](/Utilities/main)

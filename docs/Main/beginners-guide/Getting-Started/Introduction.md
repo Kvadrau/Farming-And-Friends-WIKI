@@ -5,7 +5,7 @@ prev:
     link: /index.md
 next:
   text: Getting Started
-  link: /Main/beginners-guide/Getting-Started/getting-started
+  link: /Getting-Started
 ---
 
 # Introduction to F&F

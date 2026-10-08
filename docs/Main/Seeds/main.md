@@ -2,7 +2,7 @@
 title: Work in Progress
 prev:
     text: General Knowledge
-    link: /Main/Main/GeneralKnowledge/main
+    link: /General-Knowledg
 ---
 
 # 🚧 Work in Progress

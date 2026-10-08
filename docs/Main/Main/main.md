@@ -11,13 +11,13 @@ hero:
   actions:
     - theme: alt
       text: General Knowledge
-      link: /Main/Main/GeneralKnowledge/main
+      link: /General-Knowledge
     - theme: alt
       text: Company
-      link: /Main/Main/Company/main
+      link: /Company/main
     - theme: alt
       text: Events
-      link: /Main/Main/Events/main
+      link: /Events/main
 
 features:
   - title: Wiki

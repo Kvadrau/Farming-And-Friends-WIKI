@@ -2,10 +2,10 @@
 title: Getting Started
 prev:
   text: Plowing
-  link: /Main/beginners-guide/Early-Game/Plowing
+  link: /Early-Game/Plowing
 next:
   text: Planting
-  link: /Main/beginners-guide/Early-Game/Planting
+  link: /Early-Game/Planting
 ---
 # Cultivating
 

@@ -1,38 +1,42 @@
 ---
-title: Getting Started
+title: Selling
+
 prev:
   text: Harvesting
-  link: /Main/beginners-guide/Early-Game/Harvesting
+  link: /Early-Game/Harvesting
+
 next:
-    text: Home Page
-    link: /index.md
+  text: Plowing
+  link: /Early-Game/Plowing
 ---
+
 # Selling
 
-Selling crops and produce is how you earn money in **Farming and Friends**. Below is a video you can follow alongside step by step instructions.
+Selling crops and produce is how you earn money in **Farming and Friends**. Below is a video you can follow alongside the step-by-step instructions.
 
 ### Video Tutorial
 
 <br>
 
-<video width = "640" height="360" controls>
-<source src="/video/Selling.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video width="640" height="360" controls>
+  <source src="/video/Selling.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
-
-*This video shows the step by step process of selling crops*
+*This video shows the step-by-step process of selling crops.*
 
 ### Step by Step Instructions
 
 1. **Step 1:** Hitch your trailer to your pickup truck.
+
 2. **Step 2:** Drive your truck with the trailer attached to the sell area located near the center of the map.
-3. **Step 3:** Drive your truck over the sell area ensuring your trailer is on top of it.
-4. **Step 4:** If you're in the tutorial of the game it will sell automatically if not a pop-up will appear with a confirm message.
+
+3. **Step 3:** Drive your truck over the sell area, ensuring your trailer is on top of it.
+
+4. **Step 4:** If you're in the tutorial of the game, it will sell automatically. If not, a pop-up will appear with a confirmation message.
 
 ::: tip
-*Always check the selling area for the selling boards to check the prices of the crop/product you are selling*
+*Always check the selling area for the selling boards to check the prices of the crop/product you are selling.*
 
 *Selling crops regularly will help you earn money faster, which allows you to upgrade equipment, expand your farm, and complete tasks more efficiently.*
 :::
-

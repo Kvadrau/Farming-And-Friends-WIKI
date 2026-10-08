@@ -2,10 +2,10 @@
 title: Getting Started
 prev:
   text: Selling
-  link: /Main/beginners-guide/Early-Game/Selling
+  link: /Early-Game/Selling
 next:
   text: Cultivating
-  link: /Main/beginners-guide/Early-Game/Cultivating
+  link: /Early-Game/Cultivating
 ---
 # Plowing
 

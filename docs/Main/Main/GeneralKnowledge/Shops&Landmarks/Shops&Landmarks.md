@@ -13,10 +13,10 @@ A guide to the various shops, services, and important landmarks found throughout
 
 Information about the different shops and businesses available in-game.
 
-[View Shops](./Shops/shops.md)
+[View Shops](/Shops)
 
 ## Landmarks
 
 Information about important locations and landmarks around the map.
 
-[View Landmarks](./Landmarks/landmarks.md)
+[View Landmarks](/Landmarks)

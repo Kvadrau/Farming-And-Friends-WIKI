@@ -11,19 +11,19 @@ hero:
   actions:
     - theme: alt
       text: Shops & Landmarks
-      link: /Main/Main/GeneralKnowledge/Shops&Landmarks/main
+      link: /Shops&Landmarks
     - theme: alt
       text: Factories & Utilities
-      link: /Main/Main/GeneralKnowledge/Factorys&Utilities/main
+      link: /Factorys&Utilities
     - theme: alt
       text: Licenses
-      link: /Main/Main/GeneralKnowledge/Liscenses/main
+      link: /Liscenses/Main.md
     - theme: alt
       text: Animals
-      link: /Main/Main/GeneralKnowledge/Animals/main
+      link: /Animals/Main.md
     - theme: alt
       text: Other
-      link: /Main/Main/GeneralKnowledge/Misc/main
+      link: /Misc
 
 features:
   - title: Wiki
