@@ -37,19 +37,19 @@ Players earn License XP by completing tasks associated with the license.
 
 Animal licenses cover licenses related to animals and animal-based activities.
 
-[View Animal Licenses](./Animal-Liscenses)
+[View Animal Licenses](./Animal-Licenses)
 
 ### 🚜 Farming
 
 Farming licenses cover agricultural equipment, farming activities, and other farming-related operations.
 
-[View Farming Licenses](./Farming-Liscenses)
+[View Farming Licenses](./Farming-Licenses)
 
 ### 🚚 Logistics
 
 Logistics licenses cover transportation, delivery, and other logistics-related activities.
 
-[View Logistics Licenses](./Logistics-Liscenses)
+[View Logistics Licenses](./Logistics-Licenses)
 
 
 

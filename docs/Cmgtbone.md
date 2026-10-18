@@ -2,11 +2,11 @@
 title: Farming Licenses
 prev:
   text: Licenses
-  link: Liscenses/Main
+  link: Licenses/Main
 
 next:
   text: Logistics
-  link: Liscenses/Logistics-Liscenses
+  link: Licenses/Logistics-Licenses
 ---
 # Farming Licenses
 

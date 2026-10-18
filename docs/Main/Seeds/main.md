@@ -2,7 +2,7 @@
 title: Main Seeds
 prev:
     text: General Knowledge
-    link: /General-Knowledg
+    link: /General-Knowledge
 ---
 
 # Seeds

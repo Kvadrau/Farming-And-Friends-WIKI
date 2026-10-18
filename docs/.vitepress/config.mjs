@@ -47,12 +47,12 @@ const generalKnowledgeSidebar = [
   },
 
   {
-    text: 'Liscenses',
+    text: 'Licenses',
     collapsed: false,
     items: [
-      { text: 'Animals', link: '/Liscenses/Animal-Liscenses' },
-      { text: 'Farming', link: '/Liscenses/Farming-Liscenses' },
-      { text: 'Logistics', link: '/Liscenses/Logistics-Liscenses' }
+      { text: 'Animals', link: '/Licenses/Animal-Licenses' },
+      { text: 'Farming', link: '/Licenses/Farming-Licenses' },
+      { text: 'Logistics', link: '/Licenses/Logistics-Licenses' }
     ]
   },
 
@@ -170,14 +170,14 @@ export default defineConfig({
       }
 
       // Licenses
-      else if (path.startsWith('Liscenses/')) {
+      else if (path.startsWith('Licenses/')) {
 
         const page = path.replace(
-          /^Liscenses\//,
+          /^Licenses\//,
           ''
         )
 
-        path = `Liscenses/${page}`
+        path = `Licenses/${page}`
       }
 
       // Animals
@@ -306,12 +306,12 @@ export default defineConfig({
           ]
         },
         {
-          text: 'Liscenses',
+          text: 'Licenses',
           collapsed: false,
           items: [
-            { text: 'Animals', link: '/Liscenses/Animal-liscenses' },
-            { text: 'Farming', link: '/Liscenses/Farming-Liscenses' },
-            { text: 'Logistics', link: '/Liscenses/Logistics-Liscneses' }
+            { text: 'Animals', link: '/Licenses/Animal-licenses' },
+            { text: 'Farming', link: '/Licenses/Farming-Licenses' },
+            { text: 'Logistics', link: '/Licenses/Logistics-Licneses' }
           ]
         },
         {

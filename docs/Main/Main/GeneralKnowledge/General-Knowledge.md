@@ -17,7 +17,7 @@ hero:
       link: /Factorys&Utilities
     - theme: alt
       text: Licenses
-      link: /Liscenses/Main.md
+      link: /Licenses/Main.md
     - theme: alt
       text: Animals
       link: /Animals/Main.md
