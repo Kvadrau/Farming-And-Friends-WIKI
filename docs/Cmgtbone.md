@@ -15,43 +15,26 @@ Farming Licenses unlock forestry operations, crop processing factories, hay prod
 ## 📈 License Progression
 
 | License | XP Required | Description |
-
 |----------|----------:|----------|
-
 | 🌲 Forestry | 7.2k XP | Build Forest Fields and plant trees! Unlocks equipment for hauling small logs. |
-
 | 🚜 Baling | 7.2k XP | Harvesting Wheat & Oat will produce Hay! Use baling equipment to create hay bales. |
-
 | 🧃 Juicery | 7.2k XP | Unlocks the Juicery factory that allows you to turn grapes into juice. |
-
 | 🌲 Heavy Forestry | 14.4k XP | Harvest larger trees using specialized forestry equipment. |
-
 | 🪵 Saw Mill | 14.4k XP | Cuts birch and cypress logs into planks. |
-
 | 🌾 Round Bales | 14.4k XP | Pack hay into larger, more valuable Round Hay Bales. |
-
 | 🍫 Chocolate Milk | 14.4k XP | Plant and harvest Cocoa. Unlocks a factory for producing Chocolate Milk. |
 
 ## ⚙️ Production Overview
 
 | Source | Intermediate Products | Final Products |
-
 |----------|----------|----------|
-
 | Pine Trees | Small Logs | Sold Small Logs |
-
 | Large Trees | Large Logs | Sold Large Logs or Planks |
-
 | Wheat | Hay | Square Hay Bales |
-
 | Wheat | Hay | Round Hay Bales |
-
 | Oats | Hay | Square Hay Bales |
-
 | Oats | Hay | Round Hay Bales |
-
 | Grapes | Juice | Juice |
-
 | Cocoa Trees + Milk | Cocoa | Chocolate Milk |
 
 ## 📊 Production Chains
@@ -59,155 +42,97 @@ Farming Licenses unlock forestry operations, crop processing factories, hay prod
 ### Forestry Products
 
 ```text
-
 Forestry
-
-└─ Pine Trees
-
-└─ Small Logs
-
-├─ LHT340 Tractor
-
-├─ Small Log Trailer
-
-└─ Medium Log Trailer
-
-↓
-
-Sold Small Logs
+ └─ Pine Trees
+      └─ Small Logs
+           ├─ LHT340 Tractor
+           ├─ Small Log Trailer
+           └─ Medium Log Trailer
+                 ↓
+           Sold Small Logs
+```
 
 ```
 
 ### 🌳Heavy Forestry Products
 
 ```text
-
 Heavy Forestry
-
-└─ Large Trees
-
-└─ TK500 / TK1500
-
-└─ Large Logs
-
-├─ Large Log Trailer
-
-│ ↓
-
-│ Sold Large Logs
-
-│
-
-└─ Saw Mill
-
-↓
-
-Planks
-
-↓
-
-Sold Planks
+ └─ Large Trees
+      └─ TK500 / TK1500
+           └─ Large Logs
+                ├─ Large Log Trailer
+                │    ↓
+                │ Sold Large Logs
+                │
+                └─ Saw Mill
+                     ↓
+                   Planks
+                     ↓
+                 Sold Planks
+```
 
 ```
 
-### 🌾Square Hay Bales
+### Square Hay Bales
 
 ```text
-
 Wheat / Oats
-
-↓
-
-Hay
-
-↓
-
+      ↓
+     Hay
+      ↓
 Square Baler
-
-↓
-
+      ↓
 Square Hay Bales
-
 ```
 
 Required Equipment:
-
 - Square Baler
-
 - Square Bale Stacker Trailer
 
-### 🌾Round Hay Bales
+### Round Hay Bales
 
 ```text
-
 Wheat / Oats
-
-↓
-
-Hay
-
-↓
-
+      ↓
+     Hay
+      ↓
 Round Baler
-
-↓
-
+      ↓
 Round Hay Bales
-
 ```
 
 Required Equipment:
-
 - Round Baler
-
 - Round Bale Hauler
 
-### 🍇Juice Production
+### Juice Production
 
 ```text
-
 Grapes
-
-├─ Grape Seeder
-
-├─ Grape Harvester
-
-└─ Juicery
-
-↓
-
-Juice
-
+ ├─ Grape Seeder
+ ├─ Grape Harvester
+ └─ Juicery
+      ↓
+     Juice
 ```
 
-### 🍫Chocolate Milk Production
+### Chocolate Milk Production
 
 ```text
-
 Cocoa Trees
-
-├─ Oxbo3200
-
-└─ Oxbo4220
-
-↓
-
-Cocoa
+ ├─ Oxbo3200
+ └─ Oxbo4220
+       ↓
+     Cocoa
 
 Regular Milk or Free-Range Milk
-
-+
-
-Cocoa
-
-↓
-
-Chocolate Milk Factory
-
-↓
-
-Chocolate Milk
-
+               +
+             Cocoa
+               ↓
+     Chocolate Milk Factory
+               ↓
+        Chocolate Milk
 ```
 
 ## ⬆️ Upgrade Paths
