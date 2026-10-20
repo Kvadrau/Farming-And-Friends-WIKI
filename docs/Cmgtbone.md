@@ -52,11 +52,10 @@ Forestry
            Sold Small Logs
 ```
 
+### 🌳Heavy Forestry Products
 ```
 
-### 🌳Heavy Forestry Products
-
-```text
+text
 Heavy Forestry
  └─ Large Trees
       └─ TK500 / TK1500
@@ -72,11 +71,10 @@ Heavy Forestry
                  Sold Planks
 ```
 
+### Square Hay Bales
 ```
 
-### Square Hay Bales
-
-```text
+text
 Wheat / Oats
       ↓
      Hay
@@ -91,8 +89,8 @@ Required Equipment:
 - Square Bale Stacker Trailer
 
 ### Round Hay Bales
-
-```text
+```
+text
 Wheat / Oats
       ↓
      Hay
