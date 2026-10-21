@@ -1,208 +1,215 @@
 ---
-title: Farming Licenses
+title: Animal Licenses
 prev:
   text: Licenses
   link: Licenses/Main
 
 next:
-  text: Logistics
-  link: Licenses/Logistics-Licenses
+  text: Farming Licenses
+  link: Licenses/Farming-Licenses
 ---
-# Farming Licenses
+# Animal Licenses
 
-Farming Licenses unlock forestry operations, crop processing factories, hay production systems, and upgrade paths related to farming production. Licenses are upgraded using License XP earned from Farming License tasks.
+Animal Licenses unlock animals, factories, and upgrade paths related to animal production. Licenses are upgraded using License XP earned from Animal License tasks.
 
 ## 📈 License Progression
 
 | License | XP Required | Description |
 |----------|----------:|----------|
-| 🌲 Forestry | 7.2k XP | Build Forest Fields and plant trees! Unlocks equipment for hauling small logs. |
-| 🚜 Baling | 7.2k XP | Harvesting Wheat & Oat will produce Hay! Use baling equipment to create hay bales. |
-| 🧃 Juicery | 7.2k XP | Unlocks the Juicery factory that allows you to turn grapes into juice. |
-| 🌲 Heavy Forestry | 14.4k XP | Harvest larger trees using specialized forestry equipment. |
-| 🪵 Saw Mill | 14.4k XP | Cuts birch and cypress logs into planks. |
-| 🌾 Round Bales | 14.4k XP | Pack hay into larger, more valuable Round Hay Bales. |
-| 🍫 Chocolate Milk | 14.4k XP | Plant and harvest Cocoa. Unlocks a factory for producing Chocolate Milk. |
+| 🍳 Scrambled Eggs | 3.6k XP | No description provided. |
+| 🧀 Cheese Factory | 7.2k XP | Produce more with your Milk! Unlock a factory for Cheese production! |
+| 🐝 Bees | 7.2k XP | Be careful! This license will allow you to keep BEES! Harvest the hives and refine them into honey. |
+| 🐑 Sheep | 7.2k XP | Need a fluffier animal? Getting sheep is the way to go. Use a spindle to refine their wool. |
+| 🐄 Cow Efficiency | 7.2k XP | No description provided. |
+| 🐔 Chicken Efficiency | 7.2k XP | No description provided. |
+| 📦 Animal Food Efficiency | 7.2k XP | No description provided. |
+| 🍕 Pizza Factory | 14.4k XP | No description provided. |
+| 🥣 Honey Oatmeal | 14.4k XP | Want to do more with your Honey? This factory produces Honey Oatmeal! |
+| 👕 Shirt Factory | 14.4k XP | Make use of your wool bundles! Build a Shirt Factory for greater profits! |
+| 🎂 Cake Factory Efficiency | 14.4k XP | No description provided. |
+
+## 🏭 Factory Input and Output
+
+| Factory | Input(s) | Output |
+|----------|----------|----------|
+| Cheese Factory | Milk | Cheese |
+| Pizza Factory | Wheat, Tomatoes, Cheese | Pizza |
+| Honey Oatmeal Factory | Honey, Oats | Honey Oatmeal |
+| Shirt Factory | Wool Bundles | T-Shirt Pallets |
+| Cake Factory | Wheat, Eggs, Milk | Cake Batter |
+| Oven | Cake Batter | Cake |
 
 ## ⚙️ Production Overview
 
 | Source | Intermediate Products | Final Products |
 |----------|----------|----------|
-| Pine Trees | Small Logs | Sold Small Logs |
-| Large Trees | Large Logs | Sold Large Logs or Planks |
-| Wheat | Hay | Square Hay Bales |
-| Wheat | Hay | Round Hay Bales |
-| Oats | Hay | Square Hay Bales |
-| Oats | Hay | Round Hay Bales |
-| Grapes | Juice | Juice |
-| Cocoa Trees + Milk | Cocoa | Chocolate Milk |
+| Cows | Milk, Cheese | Pizza, Cake |
+| Chickens | Eggs | Scrambled Eggs, Cake |
+| Bees | Honey | Honey Oatmeal |
+| Sheep | Wool, Wool Bundles | T-Shirt Pallets |
 
 ## 📊 Production Chains
 
-### Forestry Products
+### Chicken Products
 
 ```text
-Forestry
- └─ Pine Trees
-      └─ Small Logs
-           ├─ LHT340 Tractor
-           ├─ Small Log Trailer
-           └─ Medium Log Trailer
+Chicken
+ └─ Eggs
+      └─ Scrambled Eggs
+```
+
+### Cow Products
+
+```text
+Cow
+ └─ Milk
+      ├─ Cheese Factory
+      │    └─ Cheese
+      │
+      ├─ Pizza Factory
+      │    ├─ Wheat
+      │    ├─ Tomatoes
+      │    └─ Cheese
+      │          ↓
+      │        Pizza
+      │
+      └─ Cake Factory
+           ├─ Wheat
+           ├─ Eggs
+           └─ Milk
                  ↓
-           Sold Small Logs
+            Cake Batter
+                 ↓
+               Oven
+                 ↓
+                Cake
 ```
 
-### 🌳Heavy Forestry Products
-```
-
-text
-Heavy Forestry
- └─ Large Trees
-      └─ TK500 / TK1500
-           └─ Large Logs
-                ├─ Large Log Trailer
-                │    ↓
-                │ Sold Large Logs
-                │
-                └─ Saw Mill
-                     ↓
-                   Planks
-                     ↓
-                 Sold Planks
-```
-
-### Square Hay Bales
-```
-
-text
-Wheat / Oats
-      ↓
-     Hay
-      ↓
-Square Baler
-      ↓
-Square Hay Bales
-```
-
-Required Equipment:
-- Square Baler
-- Square Bale Stacker Trailer
-
-### Round Hay Bales
-```
-text
-Wheat / Oats
-      ↓
-     Hay
-      ↓
-Round Baler
-      ↓
-Round Hay Bales
-```
-
-Required Equipment:
-- Round Baler
-- Round Bale Hauler
-
-### Juice Production
+### Bee Products
 
 ```text
-Grapes
- ├─ Grape Seeder
- ├─ Grape Harvester
- └─ Juicery
-      ↓
-     Juice
+Beehive
+ └─ Honey
+      └─ Honey Oatmeal Factory
+           ├─ Honey
+           └─ Oats
+                ↓
+           Honey Oatmeal
 ```
 
-### Chocolate Milk Production
+### Sheep Products
 
 ```text
-Cocoa Trees
- ├─ Oxbo3200
- └─ Oxbo4220
-       ↓
-     Cocoa
-
-Regular Milk or Free-Range Milk
-               +
-             Cocoa
-               ↓
-     Chocolate Milk Factory
-               ↓
-        Chocolate Milk
+Sheep
+ └─ Wool
+      └─ Spindler
+           └─ Wool Bundles
+                └─ Shirt Factory
+                     └─ T-Shirt Pallets
 ```
 
 ## ⬆️ Upgrade Paths
 
-### Saw Mill
+### Cow Efficiency
 
-#### Saw Mill Efficiency
-
-- Saw Mill Efficiency +20%
-
-- Saw Mill Efficiency +20%
-
-- Saw Mill Efficiency +20%
-
-- Saw Mill Efficiency +20%
-
-- Saw Mill Efficiency +20%
+- Cow Efficiency 1
+- Cow Efficiency 2
+- Cow Efficiency 3
+- Cow Efficiency 4
 
 #### Effect
 
-Each upgrade increases Saw Mill efficiency by 20%, for a maximum documented bonus of 100%.
+Based on player testing, each Cow Efficiency upgrade increases the chance that a cow will produce an additional Milk. With all Cow Efficiency upgrades unlocked, cows consistently produce one extra Milk.
 
-### Chocolate Milk
+### Chicken Efficiency
 
-#### Chocolate Milk Efficiency
+- Chicken Efficiency 1
+- Chicken Efficiency 2
+- Chicken Efficiency 3
+- Chicken Efficiency 4
 
-- Chocolate Milk Efficiency 1
+### Sheep
 
-- Chocolate Milk Efficiency 2
+#### Sheep Efficiency
 
-- Chocolate Milk Efficiency 3
+- Sheep Efficiency 1
+- Sheep Efficiency 2
+- Sheep Efficiency 3
+- Sheep Efficiency 4
+- Sheep Efficiency 5
 
-- Chocolate Milk Efficiency 4
+### Animal Food Efficiency
 
-- Chocolate Milk Efficiency 5
+#### Animal Food Factory Capacity
 
-#### Effect
+- Animal Food Factory Capacity 1
+- Animal Food Factory Capacity 2
+- Animal Food Factory Capacity 3
+- Animal Food Factory Capacity 4
 
-Improves Chocolate Milk production efficiency.
+### Cheese Factory
+
+#### Cheese Factory Efficiency
+
+- Cheese Factory Efficiency 1
+- Cheese Factory Efficiency 2
+- Cheese Factory Efficiency 3
+- Cheese Factory Efficiency 4
+- Cheese Factory Efficiency 5
+
+### Pizza Factory
+
+#### Pizza Factory Efficiency
+
+- Pizza Factory Efficiency 1
+- Pizza Factory Efficiency 2
+- Pizza Factory Efficiency 3
+- Pizza Factory Efficiency 4
+- Pizza Factory Efficiency 5
+
+### Bees
+
+#### Beehive Capacity
+
+- Beehive Capacity 1
+- Beehive Capacity 2
+- Beehive Capacity 3
+- Beehive Capacity 4
+- Beehive Capacity 5
+
+#### Honey Factory Efficiency
+
+- Honey Factory Efficiency 1
+- Honey Factory Efficiency 2
+- Honey Factory Efficiency 3
+- Honey Factory Efficiency 4
+- Honey Factory Efficiency 5
+
+### Honey Oatmeal
+
+#### Honey Oatmeal Efficiency
+
+- Honey Oatmeal Efficiency 1
+- Honey Oatmeal Efficiency 2
+- Honey Oatmeal Efficiency 3
+- Honey Oatmeal Efficiency 4
+- Honey Oatmeal Efficiency 5
+
+### Cake Factory Efficiency
+
+- Cake Factory Efficiency 1
+- Cake Factory Efficiency 2
+- Cake Factory Efficiency 3
+- Cake Factory Efficiency 4
+
+### Shirt Factory
+
+The Shirt Factory does not have an upgrade path. Unlocking the license grants access to the factory.
 
 ## 📝 Notes
 
-- Forestry is required before Heavy Forestry.
-
-- Heavy Forestry is required before Saw Mill.
-
-- Baling is required before Round Bales.
-
-- Forestry focuses on Pine Tree production and small log harvesting.
-
-- The LHT340 Tractor can pick up small logs.
-
-- Small Log Trailers and Medium Log Trailers can transport and sell small logs.
-
-- Heavy Forestry introduces the TK500 and TK1500 tree harvesters for large trees. The Industrial Log Hauler can also be used to pick up logs. 
-
-- Large Logs can be transported and sold using the Large Log Trailer.
-
-- Large Logs can alternatively be processed into Planks using the Saw Mill.
-
-- The Saw Mill only processes Large Logs.
-
-- Wheat and Oats produce Hay when harvested.
-
-- Square Hay Bales require a Square Baler and Square Bale Stacker Trailer.
-
-- Round Hay Bales require a Round Baler and Round Bale Hauler.
-
-- Grapes are planted and harvested using the Moped with the Grape Seeder and Grape Harvester attachments.
-
-- Cocoa Trees are harvested using either the Oxbo3200 or Oxbo4220.
-
-- Chocolate Milk requires Cocoa and either Regular Milk or Free-Range Milk.
-
-- Chocolate Milk combines products from both the Farming and Animal License categories.
+- Most factory-related licenses unlock five levels of efficiency upgrades.
+- Cow Efficiency and Chicken Efficiency contain four upgrade levels.
+- Bees is the only currently documented Animal License that unlocks multiple upgrade categories.
+- Several upgrades currently display no in-game description.
+- The Cake Factory produces Cake Batter, which must then be processed in the Oven that is included with the Cake Factory unlock.
