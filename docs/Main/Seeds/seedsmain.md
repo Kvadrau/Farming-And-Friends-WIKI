@@ -53,7 +53,7 @@ Farming and Friends has hosted many events over it's lifetime, often during holi
 ### Crops
 
 |Name|Access|Available Quantity|Growth Time|=|Rainbow Value|Box|
-|---|---:|---:|---:||---|---:|---|
+|---|---:|---:|---:|---|---|---:|---|
 |🍬CandyCane|2021 Xmas|3 per person| |=|625|
 | | | | |=| |
 |🌸Holly|2023 Xmas|3 per day| |=|0|
