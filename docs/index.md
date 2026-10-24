@@ -23,7 +23,7 @@ hero:
       link: /Events/main
     - theme: alt
       text : Seeds
-      link: /Rainbow-Sell-Price
+      link: /seeds main.md
 features:
   - title: Wiki
     details: Learn Anything within Farming And Friends!
