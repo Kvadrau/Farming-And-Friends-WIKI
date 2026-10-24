@@ -73,7 +73,7 @@ Farming and Friends has hosted many events over it's lifetime, often during holi
 ### Trees
 
 |Name|Access|Available Quantity|Growth Time|=|Rainbow Value/log|Rainbow value/plank||Box|
-|---|---:|---:|---:||---|---:|---|
+|---|---:|---:|---:|---|---|---:|---|
 |🌲Balsam|2021 Xmas|Inf for free| |=|57|N/A|
 | | | | |=| |
 |🪾Stumped Hallowood|2025 Halloween|Depends on RNG| |=|1,825| |
@@ -89,7 +89,7 @@ Farming and Friends has hosted many events over it's lifetime, often during holi
 As of right now, there is only 1 type of retired seed being 'Bamboo' which was replaced in December of 2024 by 'Sugarcane' which shares the exact same properties, but a different name.
 
 |Name|Access|Available Quantity|Growth Time|=|Rainbow Value|Box|
-|---|---:|---:|---:||---|---:|---|
+|---|---:|---:|---:|---|---|---:|---|
 |🎍Bamboo|2019-2024 Farmco|Inf purchase|22 minutes|=|188|
 
 -------------------------------------------------------------------------------------------------------------------------------------------
