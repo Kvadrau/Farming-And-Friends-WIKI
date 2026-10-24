@@ -54,33 +54,33 @@ Farming and Friends has hosted many events over it's lifetime, often during holi
 
 |Name|Access|Available Quantity|Growth Time|=|Rainbow Value|Box|
 |---|---:|---:|---:||---|---:|---|
-|CandyCane|2021 Xmas|3 per person| |=|625|
+|🍬CandyCane|2021 Xmas|3 per person| |=|625|
 | | | | |=| |
-|Holly|2023 Xmas|3 per day| |=|0|
-|Mint|2023 Xmas|3 per person| |=|0|
-|Marshmellow|2023 Xmas|3 per person| |=|0|
-|Poinsettia|2023 Xmas|3 per person| |=|0|
+|🌸Holly|2023 Xmas|3 per day| |=|0|
+|🌱Mint|2023 Xmas|3 per person| |=|0|
+|💮Marshmellow|2023 Xmas|3 per person| |=|0|
+|🌸Poinsettia|2023 Xmas|3 per person| |=|0|
 | | | | |=| |
-|Geoff|2025 Stitchhead|None exact amount| |=|750|
-|Steve|2025 Stitchhead|None exact amount| |=|1,624|
-|Octochicken|2025 Stitchhead|None exact amount| |=|1,250|
-|Shelly|2025 Stitchhead|None exact amount| |=|1,680|
-|Woodlouse|2025 Stitchhead|None exact amount| |=|3,000|
+|🐸Geoff|2025 Stitchhead|None exact amount| |=|750|
+|🦈Steve|2025 Stitchhead|None exact amount| |=|1,624|
+|🐙Octochicken|2025 Stitchhead|None exact amount| |=|1,250|
+|🐻Shelly|2025 Stitchhead|None exact amount| |=|1,680|
+|🐛Woodlouse|2025 Stitchhead|None exact amount| |=|3,000|
 | | | | |=| |
-|Pumpking|2026 Halloween|1 free/inf buy| |=| |
-|Cursed Pumpking|2026 Halloween|1 free/inf buy| |=| |
+|🎃Pumpking|2026 Halloween|1 free/inf buy| |=| |
+|🎃Cursed Pumpking|2026 Halloween|1 free/inf buy| |=| |
 
 ### Trees
 
 |Name|Access|Available Quantity|Growth Time|=|Rainbow Value/log|Rainbow value/plank||Box|
 |---|---:|---:|---:||---|---:|---|
-|Balsam|2021 Xmas|Inf for free| |=|57|N/A|
+|🌲Balsam|2021 Xmas|Inf for free| |=|57|N/A|
 | | | | |=| |
-|Stumped Hallowood|2025 Halloween|Depends on RNG| |=|1,825| |
-|Hallowood|2025 Halloween|Depends on RNG| |=|4,750| |
-|Gnarled Hallowood|2025 Halloween|Depends on RNG| |=|7,000| |
-|Toxic Hallowood|2025 Halloween|Depends on RNG| |=| | |
-|Burnt Hallowood|2025 Halloween|Depends on RNG| |=| | |
+|🪾Stumped Hallowood|2025 Halloween|Depends on RNG| |=|1,825| |
+|🪾Hallowood|2025 Halloween|Depends on RNG| |=|4,750| |
+|🪾Gnarled Hallowood|2025 Halloween|Depends on RNG| |=|7,000| |
+|🪾Toxic Hallowood|2025 Halloween|Depends on RNG| |=| | |
+|🪾Burnt Hallowood|2025 Halloween|Depends on RNG| |=| | |
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ As of right now, there is only 1 type of retired seed being 'Bamboo' which was r
 
 |Name|Access|Available Quantity|Growth Time|=|Rainbow Value|Box|
 |---|---:|---:|---:||---|---:|---|
-|Bamboo|2019-2024 Farmco|Inf purchase|22 minutes|=|188|
+|🎍Bamboo|2019-2024 Farmco|Inf purchase|22 minutes|=|188|
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -101,45 +101,45 @@ As of right now, there is only 1 type of retired seed being 'Bamboo' which was r
 
 |Crop Name|Availability|Rainbow Value|
 |---|---:|---:|
-|Holly|Event|0|
-|Mint|Event|0|
-|Marshmellow|Event|0|
-|Poinsettia|Event|0|
-|Wheat|FarmCo|4|
-|Corn|FarmCo|12|
-|Rice|FarmCo|65|
-|Oats|FarmCo|74|
-|Cocoa|LumberCo|188|
-|SugarCane|FarmCo|248|
-|Bamboo|Retired|248|
-|CandyCane|Event|625|
-|Soybean|FarmCo|680|
-|Geoff|Event|750|
-|Tomato|FarmCo|769|
-|Octochicken|Event|1,250|
-|Cabbage|FarmCo|1,603|
-|Steve|Event|1,624|
-|Shelly|Event|1,680|
-|Alien Tenticle|Alien UFO|1,873|
-|Carrot|FarmCo|2,213|
-|Grape|FarmCo|2,738|
-|Woodlouse|Event|3,000|
-|Potato|FarmCo|3,125|
+|🌸Holly|Event|0|
+|🌱Mint|Event|0|
+|💮Marshmellow|Event|0|
+|🌸Poinsettia|Event|0|
+|🌿Wheat|FarmCo|4|
+|🌽Corn|FarmCo|12|
+|🌾Rice|FarmCo|65|
+|🌿Oats|FarmCo|74|
+|🌴Cocoa|LumberCo|188|
+|🎍SugarCane|FarmCo|248|
+|🎍Bamboo|Retired|248|
+|🍬CandyCane|Event|625|
+|🌾Soybean|FarmCo|680|
+|🐸Geoff|Event|750|
+|🍅Tomato|FarmCo|769|
+|🐙Octochicken|Event|1,250|
+|🥬Cabbage|FarmCo|1,603|
+|🦈Steve|Event|1,624|
+|🐻Shelly|Event|1,680|
+|👽Alien Tenticle|Alien UFO|1,873|
+|🥕Carrot|FarmCo|2,213|
+|🍇Grape|FarmCo|2,738|
+|🐛Woodlouse|Event|3,000|
+|🥔Potato|FarmCo|3,125|
 
 ### Trees
 
 |Crop Name|Availability|Rainbow Value/log|Rainbow Value/plank|
 |---|---:|---:|---:|
-|Pine|LumberCo|57|N/A|
-|Balsam|Event|57|N/A|
-|Cocoa|LumberCo|1,825|N/A|
-|Stumped Hallowood|Event|1,825| |
-|Cypress|LumberCo|4,750|9,500|
-|Hallowood|Event|4,750| |
-|Birch|LumberCo|7,000|14,000|
-|Gnarled Hallowood|Event|7,000| |
-|Toxic Hallowood|Event| | |
-|Burnt Hallowood|Event| | |
+|🌲Pine|LumberCo|57|N/A|
+|🌲Balsam|Event|57|N/A|
+|🌴Cocoa|LumberCo|1,825|N/A|
+|🪾Stumped Hallowood|Event|1,825| |
+|🌲Cypress|LumberCo|4,750|9,500|
+|🪾Hallowood|Event|4,750| |
+|🌳Birch|LumberCo|7,000|14,000|
+|🪾Gnarled Hallowood|Event|7,000| |
+|🪾Toxic Hallowood|Event| | |
+|🪾Burnt Hallowood|Event| | |
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -147,11 +147,11 @@ As of right now, there is only 1 type of retired seed being 'Bamboo' which was r
 
 |Name|Current Design|Retired Design|Second Retired Design|
 |---|---:|---:|---:|
-|Wheat|
-|Corn|
-|Rice|
-|SugarCane/Bamboo|
-|Cabbage|
-|Carrots|
-|Potatoes|
-|Alien Tenticles|
+|🌿Wheat|
+|🌽Corn|
+|🌾Rice|
+|🎍SugarCane/Bamboo|
+|🥬Cabbage|
+|🥕Carrots|
+|🥔Potatoes|
+|👽Alien Tenticles|
