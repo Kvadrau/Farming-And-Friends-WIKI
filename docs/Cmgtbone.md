@@ -2,11 +2,11 @@
 title: Animal Licenses
 prev:
   text: Licenses
-  link: Licenses/Main
+  link: Liscenses/Main
 
 next:
   text: Farming Licenses
-  link: Licenses/Farming-Licenses
+  link: Liscenses/Farming-Liscenses
 ---
 # Animal Licenses
 
@@ -16,17 +16,17 @@ Animal Licenses unlock animals, factories, and upgrade paths related to animal p
 
 | License | XP Required | Description |
 |----------|----------:|----------|
-| 🍳 Scrambled Eggs | 3.6k XP | No description provided. |
+| 🍳 Scrambled Eggs | 3.6k XP | Takes eggs and scrambles them. |
 | 🧀 Cheese Factory | 7.2k XP | Produce more with your Milk! Unlock a factory for Cheese production! |
 | 🐝 Bees | 7.2k XP | Be careful! This license will allow you to keep BEES! Harvest the hives and refine them into honey. |
 | 🐑 Sheep | 7.2k XP | Need a fluffier animal? Getting sheep is the way to go. Use a spindle to refine their wool. |
-| 🐄 Cow Efficiency | 7.2k XP | No description provided. |
-| 🐔 Chicken Efficiency | 7.2k XP | No description provided. |
-| 📦 Animal Food Efficiency | 7.2k XP | No description provided. |
-| 🍕 Pizza Factory | 14.4k XP | No description provided. |
+| 🐄 Cow Efficiency | 7.2k XP | More milk. |
+| 🐔 Chicken Efficiency | 7.2k XP | More eggs. |
+| 📦 Animal Food Efficiency | 7.2k XP | Makes animal food. |
+| 🍕 Pizza Factory | 14.4k XP | Makes Pizza. |
 | 🥣 Honey Oatmeal | 14.4k XP | Want to do more with your Honey? This factory produces Honey Oatmeal! |
 | 👕 Shirt Factory | 14.4k XP | Make use of your wool bundles! Build a Shirt Factory for greater profits! |
-| 🎂 Cake Factory Efficiency | 14.4k XP | No description provided. |
+| 🎂 Cake Factory Efficiency | 14.4k XP | More cake batter. |
 
 ## 🏭 Factory Input and Output
 
@@ -119,7 +119,7 @@ Sheep
 
 #### Effect
 
-Based on player testing, each Cow Efficiency upgrade increases the chance that a cow will produce an additional Milk. With all Cow Efficiency upgrades unlocked, cows consistently produce one extra Milk.
+Each upgrade increases chances of an extra milk by 25%. More about [Cows](Animals/cows). 
 
 ### Chicken Efficiency
 
@@ -127,6 +127,9 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Chicken Efficiency 2
 - Chicken Efficiency 3
 - Chicken Efficiency 4
+
+#### Effect
+Each upgrade increases chances of an extra egg box by 25%.  More about [Chickens](Animals/chickens). 
 
 ### Sheep
 
@@ -138,6 +141,9 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Sheep Efficiency 4
 - Sheep Efficiency 5
 
+#### Effect
+Each upgrade increases chances of an extra wool per sheep to appear adding a 20% chance. More about [Sheep](Animals/sheep). 
+
 ### Animal Food Efficiency
 
 #### Animal Food Factory Capacity
@@ -146,6 +152,9 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Animal Food Factory Capacity 2
 - Animal Food Factory Capacity 3
 - Animal Food Factory Capacity 4
+
+#### Effect
+Each upgrade increases chances of an extra animal food box by 25%. More about [Animal Food](Factories/animalfood). 
 
 ### Cheese Factory
 
@@ -157,6 +166,9 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Cheese Factory Efficiency 4
 - Cheese Factory Efficiency 5
 
+#### Effect
+Each upgrade increases chances of an extra cheese by 20%. More about [Cheese Factory](Factories/cheese).
+
 ### Pizza Factory
 
 #### Pizza Factory Efficiency
@@ -166,6 +178,9 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Pizza Factory Efficiency 3
 - Pizza Factory Efficiency 4
 - Pizza Factory Efficiency 5
+
+#### Effect
+Each upgrade increases chances of an extra pizza by 20%. More about [Pizza Factory](Factories/pizza). 
 
 ### Bees
 
@@ -177,6 +192,9 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Beehive Capacity 4
 - Beehive Capacity 5
 
+#### Effect
+Each upgrade increases chances of an extra honey by 20%. More about [Bees](Animals/bees). 
+
 #### Honey Factory Efficiency
 
 - Honey Factory Efficiency 1
@@ -184,6 +202,9 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Honey Factory Efficiency 3
 - Honey Factory Efficiency 4
 - Honey Factory Efficiency 5
+
+#### Effect
+Each upgrade increases chances of an extra honey by 20%. More about [Honey](Factories/honey).  
 
 ### Honey Oatmeal
 
@@ -195,6 +216,9 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Honey Oatmeal Efficiency 4
 - Honey Oatmeal Efficiency 5
 
+#### Effect
+Each upgrade increases chances of an extra honey oatmeal by 20%. More about [Honey Oatmeal](Factories/oatmeal). 
+
 ### Cake Factory Efficiency
 
 - Cake Factory Efficiency 1
@@ -202,14 +226,19 @@ Based on player testing, each Cow Efficiency upgrade increases the chance that a
 - Cake Factory Efficiency 3
 - Cake Factory Efficiency 4
 
+#### Effect
+Each upgrade increases chances of an extra cake by 25%. More about [Cake Factory](Factories/cakebatter). 
+
 ### Shirt Factory
 
-The Shirt Factory does not have an upgrade path. Unlocking the license grants access to the factory.
+The Shirt Factory does not have an upgrade path. Unlocking the license grants access to the factory. Be sure to use the spindle to make bundles of wool that can be used in this factory. 
+
+#### Effect
+More about [Shirt Factory](Factories/shirt). 
 
 ## 📝 Notes
 
 - Most factory-related licenses unlock five levels of efficiency upgrades.
 - Cow Efficiency and Chicken Efficiency contain four upgrade levels.
 - Bees is the only currently documented Animal License that unlocks multiple upgrade categories.
-- Several upgrades currently display no in-game description.
 - The Cake Factory produces Cake Batter, which must then be processed in the Oven that is included with the Cake Factory unlock.
